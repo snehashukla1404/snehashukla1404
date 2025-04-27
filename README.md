@@ -21,7 +21,7 @@
 - **Database:** `MySQL`
 - **Tools & Frameworks:** `Git` | `GitHub` | `Tkinter`
 - **Core Concepts:** `DSA` | `SDLC` | `OOPs` | `STLC`
-- **Soft Skills:** Leadership | Public Speaking | Analytical Thinking | Creative Writing
+- **Soft Skills:** Leadership | Public Speaking | Analytical Thinking | Creative Writing | Team Management
 
 ## 📚 Education
 
