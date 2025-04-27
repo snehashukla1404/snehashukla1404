@@ -5,10 +5,10 @@
 </p>
 
 ## 💫 About Me
-- 💻 Aspiring Software Engineer | 🤖 AI Enthusiast | 🔐 Cybersecurity Explorer
+- 💻 Aspiring Software Engineer | 🤖 AI Enthusiast | 🗄️ DBMS Explorer
 - 💡 Passionate about building projects that blend innovation with real-world impact.
-- 🚀 Focused on Machine Learning, Cybersecurity, Full-Stack Development, and Quantum Computing.
-
+- 🚀 Focused on Machine Learning, Cybersecurity, Full-Stack Development, SQL, Web Development, and Database Design.
+- 📚 Dedicated to continuous learning, leadership, and applying technology to solve real-world challenges.
 #### 🤝 Let's Connect
 - 📩 Email: sneha.shukla1404@gmail.com
 - 🌐 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sneha-shukla-95aa25251)
